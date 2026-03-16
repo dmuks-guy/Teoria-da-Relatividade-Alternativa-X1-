@@ -1,7 +1,7 @@
 # X1 Theory — Probabilistic Field Framework
 > **A unified framework for emergent gravity and non-singular cosmology.**
 
-![X1 Framework](./Ativos/1000427043.png)
+![X1 Framework](./Assets/1000427043.png)
 
 ## Fundamental Postulate
 
@@ -18,7 +18,7 @@ Below the Planck scale, physical descriptions reduce to this probabilistic struc
 ## 📊 Computational Validation
 Antes do detalhamento matemático, abaixo apresentamos a convergência da Teoria X1 com os dados observacionais do satélite Planck e a estabilidade das curvas galácticas.
 
-![Bateria de Testes X1](./Ativos/1000427231.jpg)
+![Bateria de Testes X1](./Assets/1000427231.jpg)
 
 ---
 
