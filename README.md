@@ -1,6 +1,9 @@
 # X1 Theory — Probabilistic Field Framework
 > **A unified framework for emergent gravity and non-singular cosmology.**
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ejE_oilP5Y5i1_zWC0KDWVCosrq-2i9a?usp=sharing)
+
+
 ![The X1 Framework](Assets/image_96d80550.png)
 
 
