@@ -3,7 +3,8 @@
 
 The **X1 Theory** predicts an initial fluctuation of the probabilistic field **$x$**, represented as **$V(X)$**. This is one of the core conceptual departures from traditional models in my framework. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/SEU_REPOSITORIO/blob/main/https://colab.research.google.com/assets/colab-badge.svg.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wwpYgTgpTItJ922ot8zi7kPzv2E9dRn0?usp=sharing)
+
 
 ###  Beyond Einstein’s Static Constant
 While Albert Einstein predicted an accelerated expansion of the universe—which later became known as the **Cosmological Constant ($\Lambda$)**—it was historically treated as a static, fixed value. In the X1 model, **$V(X)$** is an initial fluctuation, implying that what we call "dark energy" is not a constant, but a dynamic result of these field fluctuations.
